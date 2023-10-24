@@ -13,6 +13,10 @@ gem "sidekiq"
 
 gem "devise"
 
+gem "jekyll"
+
+gem 'github-pages'
+
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 
